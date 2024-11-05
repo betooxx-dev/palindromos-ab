@@ -2,6 +2,8 @@
 
 Un validador de palíndromos con interfaz gráfica implementado en Python que verifica si una cadena compuesta por los caracteres 'a' y 'b' es un palíndromo.
 
+![Captura desde 2024-11-04 19-07-00](https://github.com/user-attachments/assets/9a5f2927-3c97-45f1-816e-fbc04804d719)
+
 ## Descripción
 
 Este proyecto implementa un validador de palíndromos utilizando un enfoque basado en autómatas finitos. El programa verifica si una cadena compuesta únicamente por los caracteres 'a' y 'b' se lee igual de izquierda a derecha que de derecha a izquierda.
@@ -28,7 +30,7 @@ git clone https://github.com/betooxx-dev/palindromos-ab
 
 2. Navega al directorio del proyecto:
 ```bash
-cd validador-palindromos
+cd palindromos-ab
 ```
 
 3. Ejecuta el programa:
